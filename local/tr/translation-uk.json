@@ -1,0 +1,98 @@
+{
+  "uk": {
+    "navabout": "Про мене",
+    "navskills": "Навички",
+    "navprojects": "Проєкти",
+    "navcontact": "Контакти",
+
+    "langen": "Англійська",
+    "langar": "Арабська",
+    "langru": "Російська",
+    "languk": "Українська",
+
+    "langenglish": "Англійська",
+    "langenglishlevel": "Рідна мова",
+    "langarabic": "Арабська",
+    "langarabiclevel": "Початковий рівень",
+    "langrussian": "Російська",
+    "langrussianlevel": "Початковий рівень",
+    "langukrainian": "Українська",
+    "langukrainianlevel": "Початковий рівень",
+
+    "herotitle": "Джон Сміт",
+    "herosubtitle": "Молодший React Front-End розробник з Великобританії",
+    "herocontact": "Зв'язатися зі мною",
+    "herocv": "Моє резюме",
+
+    "abouttitle": "Про мене",
+    "abouttext1": "Я фронтенд-розробник з Великобританії, спеціалізуюся на створенні сучасних, чистих і адаптивних інтерфейсів з використанням React. Мені подобається перетворювати ідеї та дизайн у плавні та інтерактивні цифрові продукти.",
+    "abouttext2": "Швидко опановую нові технології, логічно вирішую технічні задачі та аналізую проблеми. Впевнено працюю під тиском, ефективно розподіляю час і легко взаємодію з командою.",
+    "abouttext3": "Моя мета — приєднатися до професійної команди та створювати якісні цифрові продукти. Постійно вдосконалюю свої навички та знання у фронтенд-екосистемі, створюючи інтерфейси, що приносять реальну користь користувачам.",
+
+    "skillstitle": "Технічні навички",
+    "skillsprogramming": "Мови програмування",
+    "skillsjs.desc": "Моя основна мова для створення динамічних і інтерактивних інтерфейсів",
+    "skillstsdesc": "Типізована версія JavaScript для покращення якості та підтримуваності коду",
+    "skillshtmldesc": "Мова розмітки для структурування веб-сторінок",
+    "skillscssdesc": "Мова стилів для створення сучасних і адаптивних інтерфейсів",
+
+    "projectstitle": "Мої проєкти",
+    "projectsproject1title": "Сучасний інтерфейс e-commerce",
+    "projectsproject1desc": "Повністю адаптивний інтерфейс інтернет-магазину на React з кастомними хуками та інтеграцією API.",
+    "projectsproject2title": "Система управління завданнями",
+    "projectsproject2desc": "Front-End додаток для керування завданнями з фільтрами та плавними анімаціями.",
+    "projectsproject3title": "Особисте портфоліо",
+    "projectsproject3desc": "Сучасне портфоліо, що демонструє навички Front-End із використанням React, CSS та анімацій.",
+
+    "projectsview": "Переглянути проєкт",
+
+    "contacttitle": "Зв'язатися зі мною",
+    "contactemailtitle": "Електронна пошта",
+    "contactemail": "john.smith@example.com",
+    "contactemail.button": "Надіслати лист",
+
+    "contactphonetitle": "Телефон",
+    "contactphone": "+44 7123 456789",
+    "contactphonebutton": "Подзвонити",
+
+    "contactcvtitle": "Завантажити резюме",
+    "contactcvtext": "Повне резюме та досвід роботи",
+    "contactcvbutton": "Завантажити",
+
+    "githubtext": "Мої проєкти на GitHub",
+
+    "contactformtitle": "Надіслати повідомлення",
+    "contactformname": "Ваше ім'я",
+    "contactformemail": "Електронна адреса",
+    "contactformmessage": "Повідомлення",
+    "contactformbutton": "Надіслати",
+
+    "isloading": "Завантаження...",
+
+    "skillhtml5": "HTML5",
+    "skillcss": "CSS",
+    "skillsass": "SASS",
+    "skilljavascript": "JavaScript",
+    "skilltypescript": "TypeScript",
+    "skillreact": "React",
+    "skillnode": "Node.js",
+    "skillexpress": "Express",
+    "skillrestapi": "REST API",
+    "skillmongodb": "MongoDB",
+    "skillmysql": "MySQL",
+    "skillbootstrap": "Bootstrap",
+    "skilltailwind": "Tailwind CSS",
+    "skillgit": "Git",
+    "skilldocker": "Docker",
+
+    "footercopyright": "© 2025 Моркус Абануб — React Front-End розробник",
+
+    "project1": "Вебсайт ресторану",
+    "project1disc": "Сучасний сайт ресторану з адаптивним дизайном, який дозволяє користувачам переглядати меню, знайомитися з фірмовими стравами, історією ресторану та легко знаходити контакти і місцезнаходження.",
+    "project2": "Вебсайт електронної комерції",
+    "project2disc": "Повноцінний веб-додаток для електронної комерції на React із переглядом продуктів, управлінням кошиком та адмін-панеллю. Підтримує кілька мов.",
+
+    "successful_send": "✅ Повідомлення успішно надіслано!",
+    "send_error": "❌ Сталася помилка під час надсилання, будь ласка, спробуйте ще раз."
+  }
+}

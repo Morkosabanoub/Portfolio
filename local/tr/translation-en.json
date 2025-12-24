@@ -1,0 +1,96 @@
+{
+  "en": {
+    "navabout": "About",
+    "navskills": "Skills",
+    "navprojects": "Projects",
+    "navcontact": "Contact",
+    "langen": "English",
+    "langar": "Arabic",
+    "langru": "Russian",
+    "languk": "Ukrainian",
+    "langenglish": "English",
+    "langenglishlevel": "Native",
+    "langarabic": "Arabic",
+    "langarabiclevel": "Beginner",
+    "langrussian": "Russian",
+    "langrussianlevel": "Beginner",
+    "langukrainian": "Ukrainian",
+    "langukrainianlevel": "Beginner",
+
+    "herotitle": "James Walker",
+    "herosubtitle": "Junior React Front-End Developer from the UK",
+    "herocontact": "Contact Me",
+    "herocv": "My Resume",
+
+    "abouttitle": "About Me",
+    "abouttext1": "I am a front-end developer from the United Kingdom, focused on building modern, clean, and responsive user interfaces using React and current web technologies. I enjoy turning ideas into smooth and interactive digital experiences.",
+    "abouttext2": "I quickly adapt to new tools and technologies, and I approach technical challenges with structured and logical problem-solving. I’m comfortable working under pressure, managing time effectively, and collaborating within teams.",
+    "abouttext3": "My goal is to join a professional development team where I can contribute to building high-quality digital products. I am committed to improving my skills, deepening my knowledge of the front-end ecosystem, and creating interfaces that deliver real value.",
+
+    "skillstitle": "Technical Skills",
+    "skillsprogramming": "Programming Languages",
+    "skillsjs.desc": "My main language for building dynamic and interactive interfaces",
+    "skillstsdesc": "A typed version of JavaScript that helps improve code reliability",
+    "skillshtmldesc": "Markup language I use to structure web pages",
+    "skillscssdesc": "Styling language I use to design modern and responsive layouts",
+
+    "projectstitle": "My Projects",
+
+    "projectsproject1title": "Modern E-commerce UI",
+    "projectsproject1desc": "A fully responsive e-commerce interface built with React, custom hooks, and API integration.",
+    "projectsproject2title": "Task Manager UI",
+    "projectsproject2desc": "A productivity front-end app built with React, supporting filters and smooth animations.",
+    "projectsproject3title": "Personal Portfolio",
+    "projectsproject3desc": "A modern portfolio showcasing my front-end skills using React, CSS, and animations.",
+
+    "projectsview": "View Project",
+
+    "contacttitle": "Get In Touch",
+    "contactemailtitle": "Email",
+    "contactemail": "james.walker.dev@example.com",
+    "contactemail.button": "Send Email",
+
+    "contactphonetitle": "Phone",
+    "contactphone": "+44 7300 654321",
+    "contactphonebutton": "Call Me",
+
+    "contactcvtitle": "Download CV",
+    "contactcvtext": "My full resume and experience",
+    "contactcvbutton": "Download CV",
+
+    "githubtext": "My projects on GitHub",
+
+    "contactformtitle": "Send Me a Message",
+    "contactformname": "Your Name",
+    "contactformemail": "Email Address",
+    "contactformmessage": "Message",
+    "contactformbutton": "Send Message",
+
+    "footercopyright": "© 2023 Morkos Abanoub - React Front-End Developer",
+    "isloading": "Loading...",
+
+    "skillhtml5": "HTML5",
+    "skillcss": "CSS",
+    "skillsass": "SASS",
+    "skilljavascript": "JavaScript",
+    "skilltypescript": "TypeScript",
+    "skillreact": "React",
+    "skillnode": "Node.js",
+    "skillexpress": "Express",
+    "skillrestapi": "REST APIs",
+    "skillmongodb": "MongoDB",
+    "skillmysql": "MySQL",
+    "skillbootstrap": "Bootstrap",
+    "skilltailwind": "Tailwind CSS",
+    "skillgit": "Git",
+    "skilldocker": "Docker",
+
+    "project1": "Restaurant Website",
+    "project1disc": "A modern and fully responsive restaurant website that allows visitors to explore the menu, read details about the restaurant, and access contact and location information with a clean design.",
+    "project2": "E-commerce Website",
+    "project2disc": "A full e-commerce web application built with React featuring product browsing, cart management, checkout flow, and an admin dashboard. Available in multiple languages including English, Arabic, and Ukrainian.",
+
+    "successful_send": "✅ Message sent successfully!",
+    "send_error": "❌ An error occurred while sending, please try again."
+  }
+}

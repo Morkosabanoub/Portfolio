@@ -1,0 +1,96 @@
+{
+  "ar": {
+    "navabout": "من أنا",
+    "navskills": "المهارات",
+    "navprojects": "المشاريع",
+    "navcontact": "تواصل",
+    "langen": "الإنجليزية",
+    "langar": "العربية",
+    "langru": "الروسية",
+    "languk": "الأوكرانية",
+    "langenglish": "إنجليزي",
+    "langenglishlevel": "لغة أم",
+    "langarabic": "عربي",
+    "langarabiclevel": "مبتدئ",
+    "langrussian": "روسي",
+    "langrussianlevel": "مبتدئ",
+    "langukrainian": "أوكراني",
+    "langukrainianlevel": "مبتدئ",
+
+    "herotitle": "جون سميث",
+    "herosubtitle": "مطور واجهات أمامية React مبتدئ من بريطانيا",
+    "herocontact": "تواصل معي",
+    "herocv": "السيرة الذاتية",
+
+    "abouttitle": "نبذة عني",
+    "abouttext1": "أعمل كمطور واجهات أمامية من بريطانيا، متخصص في بناء واجهات حديثة وسريعة باستخدام React. أحب تحويل الأفكار والتصاميم إلى تجارب رقمية سلسة وتفاعلية.",
+    "abouttext2": "أتعلم التقنيات الجديدة بسرعة، وأحل المشكلات التقنية بطريقة منطقية. أعمل بثبات تحت الضغط، وأدير وقتي بفعالية، وأتعاون بسهولة مع الفريق.",
+    "abouttext3": "هدفي هو الانضمام إلى فريق محترف والمساهمة في بناء منتجات رقمية قوية. أعمل باستمرار على تحسين مهاراتي ومعرفتي في مجال الواجهة الأمامية لتقديم واجهات تضيف قيمة حقيقية للمستخدم.",
+
+    "skillstitle": "المهارات التقنية",
+    "skillsprogramming": "لغات البرمجة",
+    "skillsjs.desc": "لغتي الأساسية لبناء واجهات ديناميكية وتفاعلية",
+    "skillstsdesc": "نسخة محسّنة من JavaScript لتحسين جودة واستدامة الكود",
+    "skillshtmldesc": "لغة الهيكلة لصفحات الويب",
+    "skillscssdesc": "لغة التنسيق لتصميم واجهات حديثة ومتجاوبة",
+
+    "projectstitle": "مشاريعي",
+    "projectsproject1title": "واجهة متجر إلكتروني حديث",
+    "projectsproject1desc": "واجهة متجر إلكتروني متجاوبة بالكامل مبنية باستخدام React مع استخدام Hooks ودمج API.",
+    "projectsproject2title": "واجهة تطبيق إدارة المهام",
+    "projectsproject2desc": "تطبيق Front-End لإدارة المهام باستخدام React مع دعم الفلترة والأنيميشن.",
+    "projectsproject3title": "موقع Portfolio شخصي",
+    "projectsproject3desc": "موقع شخصي يعرض مهاراتي في Front-End باستخدام React وCSS مع تأثيرات وحركات جذابة.",
+
+    "projectsview": "عرض المشروع",
+
+    "contacttitle": "تواصل معي",
+    "contactemailtitle": "البريد الإلكتروني",
+    "contactemail": "john.smith@example.com",
+    "contactemail.button": "إرسال بريد",
+
+    "contactphonetitle": "رقم الهاتف",
+    "contactphone": "+44 7123 456789",
+    "contactphonebutton": "اتصل بي",
+
+    "contactcvtitle": "تحميل السيرة الذاتية",
+    "contactcvtext": "السيرة الذاتية الكاملة وخبراتي العملية",
+    "contactcvbutton": "تحميل",
+
+    "githubtext": "مشاريعي على GitHub",
+
+    "contactformtitle": "أرسل رسالة",
+    "contactformname": "اسمك",
+    "contactformemail": "البريد الإلكتروني",
+    "contactformmessage": "نص الرسالة",
+    "contactformbutton": "إرسال",
+
+    "isloading": "جاري التحميل...",
+
+    "skillhtml5": "HTML5",
+    "skillcss": "CSS",
+    "skillsass": "SASS",
+    "skilljavascript": "JavaScript",
+    "skilltypescript": "TypeScript",
+    "skillreact": "React",
+    "skillnode": "Node.js",
+    "skillexpress": "Express",
+    "skillrestapi": "REST APIs",
+    "skillmongodb": "MongoDB",
+    "skillmysql": "MySQL",
+    "skillbootstrap": "Bootstrap",
+    "skilltailwind": "Tailwind CSS",
+    "skillgit": "Git",
+    "skilldocker": "Docker",
+
+    "footercopyright": "© 2025  أبانوب مرقص  — مطور واجهات أمامية React",
+
+    "project1": "موقع مطعم",
+    "project1disc": "موقع مطعم مصمم بعناية لتقديم تجربة مستخدم ممتعة وسلسة. يمكن للزائر تصفح قائمة الطعام، التعرف على الأطباق المميزة، الاطلاع على قصة المطعم، والوصول بسهولة إلى الموقع ووسائل التواصل — وكل ذلك بتصميم حديث ومتجاوب يعمل بسلاسة على الهاتف والكمبيوتر.",
+    "project2": "موقع تجارة إلكترونية",
+    "project2disc": "تطبيق ويب كامل للتجارة الإلكترونية باستخدام React، يتيح تصفح المنتجات، إدارة السلة، وإتمام عملية الشراء بسلاسة. يحتوي أيضًا على لوحة تحكم كاملة لإدارة المنتجات والمستخدمين ومحتوى المتجر.",
+
+    "successful_send": "✅ تم إرسال الرسالة بنجاح!",
+    "send_error": "❌ حدث خطأ أثناء الإرسال، حاول مرة أخرى."
+  }
+}
